@@ -1,2 +1,2 @@
 # hello-world
-GreyAtom first lecture 7th Jul7 2018
+GreyAtom first lecture 7th July 2018. EDITED
